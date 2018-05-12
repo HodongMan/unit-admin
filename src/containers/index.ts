@@ -1,5 +1,5 @@
-import PartnerContainer from './PartnerContainer';
+import GroupContainer from './GroupContainer';
 
 export {
-    PartnerContainer,
+    GroupContainer,
 }
